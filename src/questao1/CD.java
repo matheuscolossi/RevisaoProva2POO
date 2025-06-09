@@ -1,3 +1,5 @@
+package questao1;
+
 public class CD extends Produto {
     private String artista;
     private int numerofaixas;

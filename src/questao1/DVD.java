@@ -1,3 +1,5 @@
+package questao1;
+
 public class DVD extends Produto {
     private String tipo;
     private int duracao;
